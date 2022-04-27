@@ -1,0 +1,1 @@
+select * from {{source('languages', 'MY_FIRST_DBT_MODEL')}}

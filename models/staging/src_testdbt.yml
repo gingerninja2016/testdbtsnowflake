@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: languages 
+    database: OUR_FIRST_DB
+    schema: DBT_SSAKPAL
+    tables: 
+      - name: MY_FIRST_DBT_MODEL
+      
+
+
+  
+
+
+
